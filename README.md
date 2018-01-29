@@ -1,6 +1,6 @@
 frontend-nanodegree-arcade-game
 ===============================
-Click [here](https://github.com/AlShaimaa-Yah/JS-Game/settings) to open the game.
+Click [here](https://alshaimaa-yah.github.io/Game/) to open the game.
 
 #Project name is Facing enemies
 
